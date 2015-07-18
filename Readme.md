@@ -2,7 +2,11 @@ These are some scripts I use for controlling my Hue lights from commandline. The
 
 ## Setup
 
-Run `bundle`
+From your commandline run
+
+  - `git clone https://github.com/cschell/hue-scripts.git`
+  - `cd hue-scripts`
+  - `bundle install`
 
 ## Usage
 
